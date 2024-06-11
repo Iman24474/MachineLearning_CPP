@@ -2,10 +2,13 @@
 #include <vector>
 #include <Eigen/Dense>
 
+
 using namespace std;
 
 int main()
 {
+	////////////////////////////////// Eigen //////////////////////////////////
+
 	// Define the type for a matrix with known dimensions and floating data type
 	typedef Eigen::Matrix<float, 3, 3> MyMatrix33f;
 	// Define a vector
@@ -74,7 +77,6 @@ int main()
 
 	mat.colwise() += vec;
 	cout << "mat after colwise addition:\n" << mat << endl << endl;
-
 
 
 

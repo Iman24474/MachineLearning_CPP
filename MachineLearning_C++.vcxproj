@@ -128,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Introduction to Machine Learning\LinearAlgebraAPIs.cpp" />
+    <ClCompile Include="Introduction to Machine Learning\LinearAlgebra_Xtensor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

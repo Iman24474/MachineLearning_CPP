@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Introduction to Machine Learning\LinearAlgebraAPIs.cpp">
+    <ClCompile Include="Introduction to Machine Learning\LinearAlgebra_Xtensor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
